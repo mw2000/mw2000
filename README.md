@@ -1,11 +1,11 @@
 # Hello, I'm Mihir! 👋
 
 ## About Me
-🔭 I’m working on projects in and around the web3 ecosystem.
-🌱 I’m currently learning ZKPs using circom, Algebraic Topology, and Quantum Error Correction.
-👯 I’m looking to collaborate on Web3 infra projects, Nodes, Public blockchains, etc.
-💬 Ask me about Web3, Quantum computing.
-📫 How to reach me: DM on Twitter, or email at mwadekar [at] gmail [dot] com.
+- 🔭 I’m working on projects in and around the web3 ecosystem.
+- 🌱 I’m currently learning ZKPs using circom, Algebraic Topology, and Quantum Error Correction.
+- 👯 I’m looking to collaborate on Web3 infra projects, Nodes, Public blockchains, etc.
+- 💬 Ask me about Web3, Quantum computing.
+- 📫 How to reach me: DM on Twitter, or email at mwadekar [at] gmail [dot] com.
 
 ## My GitHub Stats
 
