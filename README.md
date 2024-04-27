@@ -2,8 +2,9 @@
 
 ## About Me
 - 🔭 I’m working on projects in and around the web3 ecosystem.
-- 🌱 I’m currently learning ZKPs using circom, Algebraic Topology, and Quantum Error Correction.
+- 🌱 I’m currently learning about ZKPs using circom, Algebraic Topology, Verifiable Data Structures, and Quantum Error Correction.
 - 👯 I’m looking to collaborate on Web3 infra projects, Nodes, Public blockchains, etc.
+- 🌉 I'm Based in San Francisco.
 - 💬 Ask me about Web3, Quantum computing.
 - 📫 How to reach me: DM on Twitter, or email at mwadekar [at] gmail [dot] com.
 
@@ -13,13 +14,10 @@
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mw2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=mw2000&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mw2000&layout=compact))
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/130611478?s=200&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png"></code>
 <!-- Add or remove images as per the tools and languages you use -->
 
